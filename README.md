@@ -12,6 +12,12 @@
 
 _Certificate down below_
 
+### Milestones
+
+- 2015 Physiotherapist
+- 2021 B. Sc. Interdisciplinary Health Care and Management
+- 2023 Advanced Data Analytics Bootcamp
+
 ### Interests:
 - 🚣🏻‍♂️ Rowing
 - 🚴 Road bike and gravel, soon triathlon
