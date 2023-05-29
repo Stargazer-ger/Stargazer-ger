@@ -6,12 +6,13 @@
 
 
 
-Capstone projects:
+### Capstone projects:
 
 - 📚 [Analysis of the quality of Germany’s Federal States Education](https://drive.google.com/file/d/1CxjNwIpnYod1lH7TsPTD5vAY4bb1LoxB/view?usp=share_link)
 
+_Certificate down below_
 
-Interests:
+### Interests:
 - 🚣🏻‍♂️ Rowing
 - 🚴 Road bike and gravel, soon triathlon
 - 💻 Python and Tableau
@@ -27,7 +28,7 @@ Interests:
 <a href="https://www.linkedin.com/in/johannes-welsch-data-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/johannes-welsch-data-analyst" height="30" width="40" /></a>
 </p>
 
-<h4 align="left"> My data analytics journey: </h4>
+<h3 align="left"> My data analytics journey: </h4>
 <p align="left"><img align="center" src="https://images.ctfassets.net/m8n66tuamygx/4hT1EuV1z7nnYGOBXOEWPz/006bf4419464bb53cffcaacb85f84199/metaimage.png" alt="https://www.neuefische.de/" height="30" width="40" /> Data Analytics Trainee at Neuefische GmbH </p>
 
 
@@ -35,6 +36,9 @@ Interests:
 <p align="left"> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stargazer-ger&show_icons=true&locale=en&layout=compact" alt="stargazer-ger" /></p>
+
+### Advanced data analytics certificate:
+![certificate1](https://github.com/Stargazer-ger/pictures/blob/0a4161a2531e95d2104414a69648abfcc96b6b3d/certificate-Johannes_Welsch-1.png)![certificate2](https://github.com/Stargazer-ger/pictures/blob/0a4161a2531e95d2104414a69648abfcc96b6b3d/certificate-Johannes_Welsch-2.png)![certificate3](https://github.com/Stargazer-ger/pictures/blob/0a4161a2531e95d2104414a69648abfcc96b6b3d/certificate-Johannes_Welsch-3.png)
 
 <!--
 **Stargazer-ger/Stargazer-ger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
