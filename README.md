@@ -12,6 +12,9 @@
 
 _Certificate down below_
 
+### Mini Projects
+- 📷 Picture Editing (Watermark)
+
 ### Milestones
 
 - 2015 Physiotherapist
